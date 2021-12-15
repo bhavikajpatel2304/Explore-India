@@ -59,6 +59,7 @@ Learning Curve and challengers:
 ## Project name: Explore India - Team 5
 ## Name : Tummala Harshitha
 ## Student Number: N01490310
+## project link: https://botlle.github.io/Explore-India-N01490310/
 
 Tasks:
 Created a web page (ancienthistory.html) , css(ancienthistory.css) , js(ancienthistory.js)
@@ -145,6 +146,7 @@ Learning curves Task 2:
 ## Project name: Explore India - Team 5
 ## Name : Tummala Harshitha
 ## Student Number: N01490310
+## project link: https://botlle.github.io/Explore-India-N01490310/
 
 Tasks:
 Created a web page (freedomstruggle.html) , css(freedomstruggle.css) , js(freedomstruggle.html)
@@ -258,6 +260,7 @@ Added the image slider along with caption.
 ## Project name: Explore India - Team 5
 ## Name : Tummala Harshitha
 ## Student Number: N01490310
+## project link: https://botlle.github.io/Explore-India-N01490310/
 
 Tasks:
 Created a web page (medivalhistory.html) , css(medivalhistory.css) , js(medivalhistory.js)
